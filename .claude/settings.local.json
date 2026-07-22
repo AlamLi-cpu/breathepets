@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mdfind \"kMDItemKind == 'Application'\")",
+      "Bash(plutil -p \"/Applications/Cursor.app/Contents/Info.plist\")",
+      "Bash(osascript *)",
+      "WebFetch(domain:petpivot.com)",
+      "Bash(npx create-next-app@latest *)"
+    ]
+  }
+}
