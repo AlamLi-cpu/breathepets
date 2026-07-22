@@ -22,7 +22,13 @@
       "Read(//Users/zhuanmmima0000/Desktop/**)",
       "Bash(gh auth *)",
       "Bash(brew install *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(npx gh *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(ssh-keygen -t ed25519 -C \"alamli@breathepets.com\" -f ~/.ssh/id_ed25519 -N \"\")",
+      "Bash(pbcopy)"
     ]
   }
 }
